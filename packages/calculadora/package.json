@@ -9,7 +9,7 @@
   "author": "Daniel Castro",
   "license": "ISC",
   "description": "",
-  "gitHead": "e7b563756a7d5e16a12a88b6b1c5b16838026587",
+  "gitHead": "ffcbf6105ded5399e90ecd95e7a8bfc56b394b34",
   "dependencies": {
     "soma-livedaniel": "^1.0.2"
   }
