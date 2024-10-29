@@ -1,6 +1,6 @@
 {
   "name": "calculadora",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,6 @@
   "description": "",
   "gitHead": "e7b563756a7d5e16a12a88b6b1c5b16838026587",
   "dependencies": {
-    "soma-livedaniel": "^1.0.1"
+    "soma-livedaniel": "^1.0.2"
   }
 }
